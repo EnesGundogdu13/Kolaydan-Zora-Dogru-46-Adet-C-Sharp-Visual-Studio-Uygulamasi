@@ -1,0 +1,1 @@
+TextBox'a Satır ve Sütunu girilecek ve Tek bir label ile girdiği Satır ve Sütun'a göre yıldız koyacak. For döngüsü ile yapılacak.

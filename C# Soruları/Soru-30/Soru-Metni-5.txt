@@ -1,0 +1,2 @@
+TextBoxlara girilen 2 sayının arasındaki sayıları Tek, Çift, 3'er ve 5'er şekilde ListBoxlara yazdıran programı yapınız.
+Tek bir for döngüsü ile yapılacak.

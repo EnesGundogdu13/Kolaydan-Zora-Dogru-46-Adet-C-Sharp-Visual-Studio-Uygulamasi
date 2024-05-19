@@ -1,0 +1,4 @@
+Bir derste yapılan Testte 50 tane soru sorulmuştur.
+TextBox'lara doğru,yanlış sayıları girilecektir.
+4 yanlış 1 doğruyu götürüyor.
+Net sayısını ve boş bırakılan soru sayısını Label'lara yazdıran programı yapınız.

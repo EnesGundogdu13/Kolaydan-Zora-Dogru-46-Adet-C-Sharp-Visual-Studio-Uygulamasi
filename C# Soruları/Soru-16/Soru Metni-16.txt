@@ -1,0 +1,1 @@
+TextBox'a girilen sayıyı radio Button'dan seçilen 4 işlemden biriyle işlem yapan ve sonucu Label ile gösteren programı yapınız.

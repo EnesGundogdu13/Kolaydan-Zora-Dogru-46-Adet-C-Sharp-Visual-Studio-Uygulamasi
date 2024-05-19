@@ -1,0 +1,1 @@
+TextBox'a girilen suyu değeri sıcaklığına göre "Buz", "Sıvı", "Gaz" Şeklinde MessageBox'da gösteren programı yapınız.

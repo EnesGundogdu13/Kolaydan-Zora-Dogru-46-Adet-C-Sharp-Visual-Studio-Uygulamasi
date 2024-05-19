@@ -1,0 +1,1 @@
+Birim Fiyat, Adet, KDV oranı girilen ve toplam sonucu label'da gösteren programı yapınız.

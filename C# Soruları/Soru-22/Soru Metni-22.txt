@@ -1,0 +1,3 @@
+PictureBox'a Klavyeden tıklanılan tuş ile başlayan Hayvan görmesi eklenecektir. Switch ile yapılacaktır.
+
+(örnek: Tuşlanan Değer "A" PictureBox'a Ayı Resmi koyulacak.)

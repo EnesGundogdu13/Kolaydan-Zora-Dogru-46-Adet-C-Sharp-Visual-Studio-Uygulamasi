@@ -1,0 +1,1 @@
+TextBox'lara girilen 2 sayıyı; "Toplama", "Çıkarma", "Çarpma", "Bölme" isimli butonlara tıklandığında sonucu label'da gösteren programı yapınız.

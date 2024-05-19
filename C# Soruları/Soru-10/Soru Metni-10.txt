@@ -1,0 +1,1 @@
+TextBox'a girilen sayının Negatif mi ? yoksa Pozitif mi ? olduğunu gösteren programı yapınız.

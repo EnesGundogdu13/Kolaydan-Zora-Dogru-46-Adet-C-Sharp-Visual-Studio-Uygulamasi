@@ -1,0 +1,1 @@
+Uzun ve kısa kenarı girilen dikdörtgenin çevresini ve alanını hesaplayan Label'lara yazan programı yapınız.

@@ -1,0 +1,6 @@
+0-100 arası Random sayı oluşturulacaktır.
+Kullanıcı TextBox nesnesine girdiği sayı ile oluşturulan Random sayıyı tahmin etmeye çalışacaktır.
+Her tahmini sayılarak label ile gösterilecektir.
+TextBox nesnesine girilen sayı Random oluşturulan sayıdan küçükse veya büyükse buna göre Label nesnesine "Sayıyı arttır" veya "Sayıyı azalt" mesajları verilecektir.
+Kullanıcı Random oluşturulan sayıyı tahmin ettiğinde MessageBox nesnesi ile "Tekrar oynamak ister misiniz ?" mesajı verilecektir.
+"Evet" butonuna tıklanırsa Form Yeniden Başlatılacak "Hayır" butonuna tıklanırsa Form kapatılacaktır.

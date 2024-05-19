@@ -1,0 +1,3 @@
+Bir kişinin boyu(cm) ve kilosu(kg) TextBox'lara girilecektir.
+VKİ'sini(Vücut Kitle İndeksi) hesaplayan ve Label'a yazan programı yapınız.
+(Vücüt Kitle indeksi, Vücut ağırlığının boy uzunluğunun karesine bölünmesi ile hesaplanır.)

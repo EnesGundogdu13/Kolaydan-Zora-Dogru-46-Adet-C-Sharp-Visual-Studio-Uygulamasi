@@ -1,0 +1,1 @@
+TextBox'a girilen sayının Mükemmel sayı olup olmadığını gösteren programı yapınız. For döngüsü ile yapılacak.

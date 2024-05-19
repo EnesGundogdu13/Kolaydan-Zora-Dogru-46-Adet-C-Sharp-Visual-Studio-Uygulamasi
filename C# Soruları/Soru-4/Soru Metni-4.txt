@@ -1,0 +1,1 @@
+TextBox'a girilen 2 yazılı notunu ve 2 performans notuna göre ortalama hesaplayan ve sonucu label'da gösteren programı yapınız.

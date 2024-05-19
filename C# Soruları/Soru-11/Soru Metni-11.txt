@@ -1,0 +1,1 @@
+Girilen sayının tek mi ? çift mi ? olduğunu MessageBox'da gösteren programı yapınız.

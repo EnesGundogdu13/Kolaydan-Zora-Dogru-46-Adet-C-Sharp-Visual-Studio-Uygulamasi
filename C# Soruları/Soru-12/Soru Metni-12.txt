@@ -1,0 +1,3 @@
+TextBox'lara Kullanıcı adı ve şifre girilecektir.
+Eğer kullanıcı adı ve şifre doğru ise MessageBox ile "Giriş Başarılı!"
+kullanıcı adı ve şifre yanlış ise MessageBox ile "Giriş Başarısız!" mesajı verilen programı yapınız.

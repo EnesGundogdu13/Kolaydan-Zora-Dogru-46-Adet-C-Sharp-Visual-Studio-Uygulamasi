@@ -1,0 +1,3 @@
+TextBox'a 0-100 arasında girilen notu beşlik sisteme göre çeviren programı yapınız.
+
+Girilen Not: 0-24 Sıfır / 25-49 Başarısız / 50-59 Geçer / 60-69 Orta / 70-84 İyi / 85-100 Pek İyi/ 

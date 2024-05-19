@@ -1,0 +1,1 @@
+TextBox'lara Üstü ve Tabanı girilen sayının sonucunu label'da gösteriniz. For döngüsü ile yapılacak.

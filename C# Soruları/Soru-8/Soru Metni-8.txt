@@ -1,0 +1,2 @@
+Yarı çap,(r) girilen dairenin çevresini ve alanını hesaplayan ve label'lara yazan programı yapınız.
+(π = 3.14) Dairenin Alanı = πr2=   //  Dairenin Çevresi = 2πr

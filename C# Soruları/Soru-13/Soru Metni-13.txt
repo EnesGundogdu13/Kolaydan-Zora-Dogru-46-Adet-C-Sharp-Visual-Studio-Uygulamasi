@@ -1,0 +1,1 @@
+Klavyeden 2 yazılı ve 2 performans girilecektir. Hesaplanan ortalamaya göre "Geçti" veya "Kaldı" şeklinde mesaj veren programı yapınız.

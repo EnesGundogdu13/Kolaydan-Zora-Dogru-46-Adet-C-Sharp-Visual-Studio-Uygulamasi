@@ -1,0 +1,1 @@
+Timer kullanılarak bir kronometre yapınız. Başla - Dur - Sıfırla Butonları olan bir program yapınız.

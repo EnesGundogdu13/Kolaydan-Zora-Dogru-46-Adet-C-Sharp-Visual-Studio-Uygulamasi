@@ -1,0 +1,1 @@
+For Döngüsü ile TextBox'lara girilen 1. sayı ve 2. sayı arasındaki sayılar toplanacak ve label'da gösterilecektir.

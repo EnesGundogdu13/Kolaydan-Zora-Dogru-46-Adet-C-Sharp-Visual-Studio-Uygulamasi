@@ -1,0 +1,3 @@
+TextBox'lara Boy ve Kilosu girilecek ve vücut kitle indeksi hesaplanacaktır. Çıkan sonuca göre label'a Kilo durumu yazılacaktır.
+
+<18.4 = Zayıf | <24,9 = Normal | <29,9 = Fazla Kilolu | <34.9 = Şişman (Obez) - I. Sınıf | <44.9 = Şişman (Obez) - II. Sınıf | >45 = Şişman (Obez) - III. Sınıf |

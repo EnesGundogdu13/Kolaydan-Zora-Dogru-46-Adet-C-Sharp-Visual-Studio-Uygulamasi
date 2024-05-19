@@ -1,0 +1,1 @@
+TextBox'a girilen 2 sayıyı toplayan ve sonucu MessageBox'da gösteren programı yapınız.

@@ -1,0 +1,1 @@
+TextBox'a girilen sayı for döngüsü ile (örnek: 5!) sonucu label'da gösterilecektir.

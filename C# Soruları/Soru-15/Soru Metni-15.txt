@@ -1,0 +1,1 @@
+TextBox içine 0-999 arasında girilen bir sayının okunuşunu Label'a yazan programı yazınız.

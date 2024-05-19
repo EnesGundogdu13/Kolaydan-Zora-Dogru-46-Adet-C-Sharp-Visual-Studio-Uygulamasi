@@ -1,0 +1,3 @@
+For açıldığında 2 ListBox'a 10 tane 10-50 arasında Random sayı yazılacak. ListBox'larda seçilen sayılar TextBox'lara yazdırılacak.
+İki ListBox'dan seçilen sayıların toplamları kullanıcı tarafından girilecek eğer doğru girerse Doğruya 1 eklenir yanlış girerse
+yanlışa 1 eklenecek.
